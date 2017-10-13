@@ -7,6 +7,7 @@ class DataElement extends Component {
       <div>
         <p>{this.props.dataElement.id}</p>
         <p>{this.props.dataElement.displayName}</p>
+        <p>hello</p>
       </div>
     );
   }
